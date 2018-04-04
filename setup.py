@@ -14,9 +14,8 @@ setup(
     description='Python project template',
     long_description=readme,
     author='Huy Tran',
-    author_email='me@kennethreitz.com',
+    author_email='me@my-domain.com',
     url='https://github.com/htr3n/python-project-template',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
-
